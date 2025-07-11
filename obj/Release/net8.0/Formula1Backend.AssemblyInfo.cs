@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Formula1Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5488e1bf481c993b493cbcdeaedca3ce44add143")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d674e2787370c0aed9a80118d7395cbc8b301c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Formula1Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Formula1Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

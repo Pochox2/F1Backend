@@ -8,7 +8,6 @@ C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Formula1Backend.pdb
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Humanizer.dll
-C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -23,6 +22,7 @@ C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\SQLitePCLRaw.provider.e_
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
 C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
@@ -44,6 +44,7 @@ C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.Assembly
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.sourcelink.json
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\staticwebassets\msbuild.Formula1Backend.Microsoft.AspNetCore.StaticWebAssets.props
@@ -58,5 +59,3 @@ C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\refint\Formula1Backend.d
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.pdb
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.genruntimeconfig.cache
 C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\ref\Formula1Backend.dll
-C:\Users\Administrador\Formula1Backend\bin\Debug\net8.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\Administrador\Formula1Backend\obj\Debug\net8.0\Formula1Backend.sourcelink.json
