@@ -19,7 +19,7 @@ namespace Formula1Backend.Models.Escuderia.Dto
 
         [Required(ErrorMessage = "Debe especificar el año de fundacion.")]
         [Range(1800, 2025, ErrorMessage = "El año debe ser valido.")]
-        public int AñoFundacion { get; set;}
+        public int AnoFundacion { get; set;}
 
     }
 }

@@ -13,7 +13,7 @@ namespace Formula1Backend.Models.Entities
 		public string Nombre { get; set;} = null!;
 		public string ImagenUrl { get; set; } = null!;
 		public string Pais { get; set; } = null!;
-		public int AñoFundacion { get; set; }
+		public int AnoFundacion { get; set; }
 
         public bool Seed { get; set; } = false;
 
