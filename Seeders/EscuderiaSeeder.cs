@@ -11,7 +11,7 @@ namespace Formula1Backend.Seeders
             if(!context.Escuderias.Any())
             {
                 context.Escuderias.AddRange(
-                    new Escuderia { Id = 1, Nombre = "Alpine", ImagenUrl = "...", Pais = "Francia", AnoFundacion = 1939, Seed = true },
+                    new Escuderia { Id = 1, Nombre = "Alpine", ImagenUrl = "https://download.logo.wine/logo/Alpine_(automobile)/Alpine_(automobile)-Logo.wine.png", Pais = "Francia", AnoFundacion = 1939, Seed = true },
                     new Escuderia { Id = 2, Nombre = "McLaren", ImagenUrl = "...", Pais = "Gran Bretaña", AnoFundacion = 1963, Seed = true },
                     new Escuderia { Id = 3, Nombre = "Ferrari", ImagenUrl = "...", Pais = "Italia", AnoFundacion = 1929, Seed = true },
                     new Escuderia { Id = 4, Nombre = "Red Bull", ImagenUrl = "...", Pais = "Austria", AnoFundacion = 2005, Seed = true },
