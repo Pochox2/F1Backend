@@ -14,7 +14,7 @@ namespace Formula1Backend.Models.Pista.Dto
 
         [Required(ErrorMessage = "El nombre de la ubicacion es necesario")]
         [StringLength(20, ErrorMessage = "El nombre del tipo no puede exceder los 20 caracteres")]
-        public int Tipo { get; set; }
+        public string Tipo { get; set; }
 
         [Required(ErrorMessage = "El id del piloto con mayor desempeño es necesario")]
         public int MejorPilotoId { get; set; }
