@@ -26,6 +26,9 @@ namespace Formula1Backend.Models.Piloto.Dto
         
         public int? EscuderiaId { get; set; }
 
+        [StringLength(150, ErrorMessage = "La URL de la imagen no puede exceder los 150 caracteres.")]
+        public string? ImagenUrl { get; set; }
+
 
     }
 }

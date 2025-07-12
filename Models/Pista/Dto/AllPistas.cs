@@ -9,5 +9,7 @@
         public string Tipo { get; set; } = null!;
         public int MejorPilotoId { get; set; }
 
+        public string ImagenUrl { get; set; } = null!;
+
     }
 }

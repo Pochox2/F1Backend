@@ -18,6 +18,8 @@ namespace Formula1Backend.Models.Entities
         public Piloto MejorPiloto { get; set; } = null!;
         public bool Seed { get; set; } = false;
 
+        public string ImagenUrl { get; set; } = null!;
+
 
     }
 }

@@ -19,5 +19,9 @@ namespace Formula1Backend.Models.Pista.Dto
         [Required(ErrorMessage = "El id del piloto con mayor desempeño es necesario")]
         public int MejorPilotoId { get; set; }
 
+        [Required(ErrorMessage = "La imagen de la escuderia es necesaria.")]
+        [StringLength(150, ErrorMessage = "La URL de la imagen no puede exceder los 150 caracteres.")]
+        public string ImagenUrl { get; set; } = null!;
+
     }
 }

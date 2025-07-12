@@ -3810,11 +3810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Formula1Backend\\Formula1Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Source\\Repos\\F1Backend\\Formula1Backend.csproj",
       "projectName": "Formula1Backend",
-      "projectPath": "C:\\Users\\Administrador\\Formula1Backend\\Formula1Backend.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Source\\Repos\\F1Backend\\Formula1Backend.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Formula1Backend\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Source\\Repos\\F1Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

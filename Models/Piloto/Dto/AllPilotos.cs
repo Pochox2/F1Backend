@@ -9,6 +9,7 @@ namespace Formula1Backend.Models.Piloto.Dto
 		public int Edad { get; set; }
 		public int EscuderiaId { get; set; }
 
+        public string ImagenUrl { get; set; } = null!;
 
-	}
+    }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zccP3GZddNaAW22mzskhC8vjDJaZLmydXbO3URG2MbLYlGR0zmrkFWzCFsVRSL64dQx6swu/EkC1VKXYyFk8IA==",
+  "dgSpecHash": "VEA12VJxIqfr/1ug6jQZccSrl3W5G1YYlq4jGr1GEum1citslz1LhebjBBfG5zpVEC7ixo6/2pVv33ziFcZ6gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Formula1Backend\\Formula1Backend.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Source\\Repos\\F1Backend\\Formula1Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
