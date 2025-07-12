@@ -14,7 +14,7 @@ namespace Formula1Backend.Models.Pista.Dto
 
 
         [StringLength(20, ErrorMessage = "El nombre del tipo no puede exceder los 20 caracteres")]
-        public int? Tipo { get; set; }
+        public string? Tipo { get; set; }
 
        
         public int? MejorPilotoId { get; set; }
