@@ -20,7 +20,7 @@ namespace Formula1Backend.Seeders
                     new Escuderia { Id = 7, Nombre = "Haas", ImagenUrl = "https://e7.pngegg.com/pngimages/862/18/png-clipart-haas-f1-team-mercedes-amg-petronas-f1-team-formula-one-esports-series-racing-point-force-india-f1-formula-one-team-haas-f1-team-mercedes-amg-petronas-f1-team.png", Pais = "Estados Unidos", AnoFundacion = 2016, Seed = true },
                     new Escuderia { Id = 8, Nombre = "Racing Bulls", ImagenUrl = "https://e7.pngegg.com/pngimages/571/568/png-clipart-red-bull-racing-team-formula-1-red-bull-arena-leipzig-red-bull-text-racing.png", Pais = "Italia", AnoFundacion = 2006, Seed = true },
                     new Escuderia { Id = 9, Nombre = "Williams", ImagenUrl = "https://e7.pngegg.com/pngimages/754/329/png-clipart-williams-martini-racing-red-bull-racing-2016-formula-one-world-championship-williams-fw37-abu-dhabi-grand-prix-car-blue-angle.png", Pais = "Reino Unido", AnoFundacion = 1977, Seed = true },
-                    new Escuderia { Id = 10, Nombre = "Kick Sauber", ImagenUrl = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stake_F1_Team_logo.png", Pais = "Suiza", AnoFundacion = 1993, Seed = true }
+                    new Escuderia { Id = 10, Nombre = "Kick Sauber", ImagenUrl = "https://images.seeklogo.com/logo-png/61/1/stake-f1-team-kick-sauber-logo-png_seeklogo-613806.png", Pais = "Suiza", AnoFundacion = 1993, Seed = true }
                     );
                 context.SaveChanges();
             }
